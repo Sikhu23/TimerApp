@@ -1,0 +1,22 @@
+.featureList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.center-div {
+    margin-top: -10%;
+   
+}
+i{
+    font-size: 32px;
+}
